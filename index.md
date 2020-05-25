@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Find JOY in Coding</title>
+    <!--Every line coded with love by Joy Robbins, May 2020-->
+    <meta charset="utf-8">
+    <meta name="description" content="A collection of helpful resources to teach yourself how to code, created by a woman in Texas."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+<body>
+    <header class="home">
+      <h2>< Find JOY in Coding ></h2>
+    </header>
+
+  <section>
+    <nav>
+      <ul>
+        <li><a href="#" class="current">Home</a></li>
+        <li><a href="bookshelf.html">My Bookshelf</a></li>
+        <li><a href="resources.html">Resources I'm Loving</a></li>
+        <li><a href="future.html">My Future Projects</a></li>
+        <li id="Battleship"><a href="https://joyrobbins.github.io/battleship" target="_blank">Play a Round of Battleship</a></li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Welcome to My Website!</h1>
+      <p>My name is Joy, and I'm a woman from Texas who is teaching herself HTML, CSS, and JavaScript. I created this website to share books, resources, and organizations that have helped me along my journey to understanding (and loving) coding. In addition, this website serves as a snapshot of what I've learned in the 8 weeks I've spent studying these resources.</p><p>I hope you find something in these pages to make you love coding as much as I do, and feel free to connect with me on <a href="https://www.linkedin.com/in/joy-robbins-8725a169" target="_blank">LinkedIn</a>.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy2020 Coded with Love by Joy</p>
+  </footer>
+
+  </body>
+</html>
