@@ -13,7 +13,7 @@
     text-align: center;
     font-size: 35px;
     color: white;
-    background-image: url("images/background.jpg");
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -23,7 +23,7 @@
     text-align: center;
     font-size: 35px;
     color: white;
-    background-image: url("images/bookshelf.jpg");
+    background-image: url("bookshelf.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -33,7 +33,7 @@
     text-align: center;
     font-size: 35px;
     color: white;
-    background-image: url("images/resource.jpg");
+    background-image: url("resource.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -43,7 +43,7 @@
     text-align: center;
     font-size: 35px;
     color: white;
-    background-image: url("images/futures.jpg");
+    background-image: url("futures.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
